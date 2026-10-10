@@ -1,0 +1,9 @@
+.app-title{
+    color:black;
+    font-size: 50px;
+    background-image: linear-gradient(to right, rgb(175, 154, 154), yellow);
+}
+.body{
+    background-color: rgb(150, 66, 150);
+    height: 100vh;
+}
